@@ -1,0 +1,6 @@
+{
+  "name": "An Early-Warning Queue for Organic Click Decline",
+  "description": "Research paper on client-grouped and time-forward evaluation of a decision-support ranker for organic search click decline by Hassan Ali Imran. Built on the FlyRank ML Internship dataset.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
